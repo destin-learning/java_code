@@ -4,7 +4,7 @@ public class HelloWorld
     public static void main(final String[] args) {
 
         // this is my first java program
-        System.out.println("Hello World");
+        System.out.println("Hello World my name is Eric");
 
     }
 
